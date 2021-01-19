@@ -1,0 +1,15 @@
+{
+    "name": "com.timcassell.protopromise",
+    "version": "1.0.2",
+    "displayName": "ProtoPromise",
+    "description": "Robust and efficient C# library for management of asynchronous operations.",
+    "unity": "2019.1",
+    "keywords": [
+      "promise",
+      "promises"
+    ],
+    "author": {
+      "name": "Tim Cassell",
+      "url": "https://www.linkedin.com/in/timothy-cassell/"
+    }
+  }
